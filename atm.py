@@ -22,8 +22,8 @@ class atm():
     def __init__(self):
         self.uygulamaS = uygulama
         self.mainS = main
-        self.kullaniciD = "emre"
-        self.sifreD = "123"
+        self.kullaniciD = "KullanıcıAdınız"
+        self.sifreD = "Sıfrenız"
         self.sifre = sifreE.get()
         self.kullanici = kullaniciName.get()
         self.bakiye = 0
